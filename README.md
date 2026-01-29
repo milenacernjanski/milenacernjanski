@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Milena 👋
 
-<!--
-**milenacernjanski/milenacernjanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science graduate  
+📊 Aspiring Data Analyst  
+🧠 Interested in data-driven decision making and continuous learning
 
-Here are some ideas to get you started:
+### 🔧 Tools & Skills
+- SQL
+- Excel
+- Python (Pandas, NumPy, Matplotlib)
+- Data cleaning & analysis
+- Data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projects
+- SQL data analysis projects
+- Python exploratory data analysis
+- Dashboard-focused projects
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/milena-cernjanski/)
