@@ -1,8 +1,8 @@
 ## Hi there, I'm Milena 👋
 
-🎓 Data Science graduate  
-📊 Aspiring Data Analyst  
-🧠 Interested in data-driven decision making and continuous learning
+--> Data Science graduate  
+--> Aspiring Data Analyst  
+--> Interested in data-driven decision making and continuous learning
 
 ### 🔧 Tools & Skills
 - SQL
