@@ -1,7 +1,7 @@
 ## Hi there, I'm Milena 👋
 
---> Data Science graduate  
---> Aspiring Data Analyst  
+--> Data Operations Support Analyst
+--> Goosehead Insurance = Katie Kohli Agency
 --> Interested in data-driven decision making and continuous learning
 
 ### 🔧 Tools & Skills
